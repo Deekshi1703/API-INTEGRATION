@@ -14,3 +14,8 @@ CSS – Style the interface for a clean, responsive look.
 JavaScript (ES6) – Fetch data from the API and dynamically update the webpage.
 OpenWeatherMap API – Source of real-time weather data.
 Fetch API – Used for making HTTP requests to get weather data.
+
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/39910761-9c8a-4c5c-b6e2-a87158912779)
